@@ -1,1 +1,1 @@
-# Simple İnfinite Scroll With Change URL
+* This codes and repostories created by www.ilkertuncer.com
