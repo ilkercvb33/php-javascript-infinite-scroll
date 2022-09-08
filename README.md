@@ -1,1 +1,1 @@
-* This codes and repository created by www.ilkertuncer.com
+* This codes and repository created by https://ilkertuncer.com/
